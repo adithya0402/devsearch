@@ -7,13 +7,13 @@ It is a search engine for GitHub repositories, where you type the words in the t
 ## How we built it
 We used javascript for all the work.
 
-## Challenges I ran into
+## Challenges we ran into
 We had trouble parsing information we got from the API
 
 ## Accomplishments that I'm proud of
 We came up with an idea of what to work on quickly, so we could start work on it early. Also, we divided work for each team member and worked on them collaboratively
 
-## What I learned
+## What we learned
 We learned more about designing/developing a website (HTML, CSS, Javascript) and about APIs. Also, we gained more experience with working on a challenging task in a limited time as a group.
 
 ## What's next for DevSearch
